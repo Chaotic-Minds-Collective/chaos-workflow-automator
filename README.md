@@ -1,6 +1,6 @@
-# Chaotic Minds Workflow Automator
+# Chaotic Minds Command Workflow Automator (CC)
 
-A Chaotic Minds Collective (CMC) project for workflow automation across the Collective's tools and services.
+A Chaotic Minds Command (CC) project for workflow automation across Command products and approved integrations.
 
 ## Repository status
 
